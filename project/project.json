@@ -5,7 +5,7 @@
         "image": "./assets/img/project/infinityweb.png",
         "desc":"This is my first website project. This website is an implementation of a UI/UX mobile app lecture project called Infinity Gaming Store.",
         "links": {
-            "demo": "https://yarreeex.github.io/portfolio/",
+            "demo": "https://yarreeex.github.io/infinitystore/",
             "code": "https://github.com/Yarreeex/infinitystore"
         }
     },
