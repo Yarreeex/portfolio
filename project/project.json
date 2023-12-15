@@ -10,10 +10,10 @@
         }
     },
     {
-        "title": "Infinity Mobile App",
-        "tech": "Figma, Draw.io, & Trello",
+        "title": "X-Finance Mobile Apps",
+        "tech": "Figma, Draw.io, Corel Draw, & Trello",
         "image": "./assets/img/project/trello.png",
-        "desc":"This is my first UI/UX project with team.",
+        "desc":"This is my first solo UI/UX project.",
         "links": {
             "demo": "https://www.figma.com/file/9CyGwIYJgCYL0RCM5FRGGT/RPL-Infinity-Game-Store?type=design&t=Vik3uPTFP5ghCUyL-1",
             "code": "https://trello.com/b/uLN50nxB/software-developtment"
