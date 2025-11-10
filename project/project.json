@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Infinity Website",
+        "tech": "HTML, CSS & JavaScript",
+        "image": "./assets/img/project/infinityweb.png",
+        "desc":"This is my first website project. This website is an implementation of a UI/UX mobile app lecture project called Infinity Gaming Store.",
+        "links": {
+            "demo": "https://yarreeex.github.io/infinitystore/",
+            "code": "https://github.com/Yarreeex/infinitystore"
+        }
+    },{
+        "title": "X-Finance Mobile Apps",
+        "tech": "Figma, Draw.io, Corel Draw, & Trello",
+        "image": "./assets/img/project/xfinance.png",
+        "desc":"This is my first solo UI/UX project.",
+        "links": {
+            "demo": "https://www.figma.com/proto/geE23nY9oE0jaWIthsHddL/X?type=design&node-id=25-3&t=PSZck0wH930KesXq-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=65%3A158&mode=design",
+            "code": "https://www.figma.com/file/geE23nY9oE0jaWIthsHddL/X?type=design&node-id=0%3A1&mode=design&t=5jH4NrJO2Pi7oh3R-1"
+        }
+    },{
+        "title": "Research Paper",
+        "tech": "Wireshark & WiGLE",
+        "image": "./assets/img/project/researchpaper.png",
+        "desc":"My first research paper about wifi analysis.",
+        "links": {
+            "demo": "https://drive.google.com/file/d/1ntZ_p_tDMpVhauMNXQLhWC5CqcaoMW5z/view?usp=sharing",
+            "code": "https://drive.google.com/file/d/1ntZ_p_tDMpVhauMNXQLhWC5CqcaoMW5z/view?usp=sharing"
+        }
+    },{
+        "title": "Portfolio Website",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/portfolio.png",
+        "desc": "This is my project for personal portfolio.",
+        "links": {
+            "demo": "https://yarreeex.github.io/portfolio/",
+            "code": "https://github.com/Yarreeex/portfolio"
+        }
+    },{
+        "title": "IDS Parallel Computing",
+        "tech": "Snort, IDS, Linux, MPI & Python",
+        "image": "./assets/img/project/IDS.png",
+        "desc":"Implementation of Intrusion Detection System Using Snort Based on Parallel Computing with Log Distribution Method",
+        "links": {
+            "demo": "https://repository.unsri.ac.id/184058/",
+            "code": "-"
+        }
+    }
+]

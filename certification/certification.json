@@ -1,0 +1,43 @@
+[
+    {
+        "name": "AWS Cloud Practitioner Essentials",
+        "by": "AWS",
+        "image": "./certification/aws-cloud.png",
+        "category":"cloud",
+        "links": {
+            "credentials": "-"
+        }
+    }, {
+        "name": "Cloud Practitioner Essentials",
+        "by": "Dicoding",
+        "image": "./certification/aws-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/1RXY6LYNQZVM"
+        }
+    }, {
+        "name": "Introduction to Backend Engineering",
+        "by": "MySkill",
+        "image": "./certification/software-engineer-myskill.png",
+        "category":"programming",
+        "links": {
+            "credentials": "-"
+        }
+    }, {
+        "name": "Fundamentals of Machine Learning and Artificial Intelligence",
+        "by": "AWS",
+        "image": "./certification/aws-ml.png",
+        "category":"ML/AI",
+        "links": {
+            "credentials": "-"
+        }
+    }, {
+        "name": "AWS Billing and Cost Management",
+        "by": "AWS",
+        "image": "./certification/aws-bill.png",
+        "category":"programming",
+        "links": {
+            "credentials": "-"
+        }
+    }
+]
