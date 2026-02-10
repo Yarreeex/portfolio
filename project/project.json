@@ -44,5 +44,14 @@
             "demo": "https://repository.unsri.ac.id/184058/",
             "code": "-"
         }
+    },{
+        "title": "Monitoring Network Device (Cisco Catalyst 9200L) with Wazuh using SNMPV3",
+        "tech": "Wazuh, Linux, XML, Cisco",
+        "image": "./assets/img/project/wazuh.jpeg",
+        "desc":"I developed an event-based network monitoring and security dashboard using Wazuh SIEM to monitor Cisco Catalyst 9200L network devices. This project focuses on detecting security incidents, hardware failures, and performance issues through custom Wazuh rules and interactive dashboards. The system processes Cisco IOS syslog events and transforms them into actionable alerts and visual insights. I implemented custom rules, log testing, and dashboards to monitor critical network conditions in near real-time without requiring agent installation on network devices (agentless monitoring).",
+        "links": {
+            "demo": "https://www.linkedin.com/in/ahmadgtiar/details/projects/",
+            "code": "-"
+        }
     }
 ]
